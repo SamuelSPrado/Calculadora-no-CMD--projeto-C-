@@ -16,7 +16,7 @@ namespace HelloWorld
             while (!escolherSair) //(loopin)"Enquanto" o usuário não (! - negação) escolher SAIR, exiba o menu.
             {
             //Exiba o menu na tela
-            Console.WriteLine("PRIMEIRA CALCULADORA EM C#:");
+            Console.WriteLine("PRIMEIRA CALCULADORA NO CMD:");
             Console.WriteLine("---------------------------");
             Console.WriteLine("Escolha uma opção para começar seus calculos:");
             Console.WriteLine();
