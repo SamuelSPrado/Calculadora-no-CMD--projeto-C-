@@ -1,0 +1,8 @@
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\Primeira calculadora CMD.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\Primeira calculadora CMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\Primeira calculadora CMD.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
