@@ -6,3 +6,11 @@ C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\Primeira calcu
 C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\Primeira calculadora CMD.csproj.CoreCompileInputs.cache
 C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Samuel\Desktop\Cursos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\obj\Debug\Primeira calculadora CMD.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\obj\Debug\Primeira calculadora CMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\obj\Debug\Primeira calculadora CMD.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Samuel\Desktop\Repository\csharp\PrimeiroProjeto\Calculadora-no-CMD--projeto-C-\HelloWorld\obj\Debug\HelloWorld.pdb
