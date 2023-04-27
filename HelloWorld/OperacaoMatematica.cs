@@ -16,7 +16,6 @@ namespace HelloWorld
             this.x = x;
             this.y = y;
         }
-
         public abstract double Calcular(double x, double y);
 
         public abstract string Nome { get; }
